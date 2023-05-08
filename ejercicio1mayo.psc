@@ -1,3 +1,5 @@
+// Realice un algoritmo que diga cuantos dígitos tiene un numero  
+// Ejemplo: el usuario digita el numero 2345 y el algoritmo debe arrojar el mensaje: “el numero digitado tiene 4 dígitos”  
 Algoritmo digitonumero
 	Escribir "Digite numero"
 	Leer n
